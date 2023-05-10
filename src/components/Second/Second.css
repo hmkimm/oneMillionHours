@@ -1,0 +1,19 @@
+.second {
+  margin-top: 102px;
+}
+
+.input {
+  border: none;
+  background-color: white;
+  border-radius: 7px;
+  padding: 17px 40px;
+  margin: 0 17px;
+}
+
+input::placeholder {
+  color: #babcbe;
+}
+
+.input-second {
+  margin: 27px 17px 115px;
+}

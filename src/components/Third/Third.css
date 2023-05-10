@@ -1,0 +1,14 @@
+.strong {
+  font-size: 72px;
+  margin: 0 12px;
+}
+
+.third {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.third + .third {
+  margin-bottom: 78px;
+}

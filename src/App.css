@@ -1,0 +1,23 @@
+* {
+  background-color: #5b2386;
+  color: white;
+  font-size: 24px;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+.clock {
+  position: absolute;
+  left: 50%;
+  z-index: 0;
+}
+
+.title-img {
+  background-image: url("./clock.png");
+  background-repeat: no-repeat;
+  background-size: 140px;
+  background-position: center;
+}
